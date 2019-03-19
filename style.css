@@ -9,3 +9,7 @@ label{
     font-weight: 800;
     color: blueviolet
 }
+.cog {
+    float: right;
+    margin-right: 50%;
+}
