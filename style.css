@@ -24,7 +24,16 @@ nav.navbar-light a {
     color: black
 
 }
-
+/* Widget*/
+.icon-right {
+    position: absolute;
+    right: 15px;
+    z-index: 1;
+    background:red;
+    border-radius: 5px 0 0; 
+    padding: 10px;
+    
+}
 
 
 
